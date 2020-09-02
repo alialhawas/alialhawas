@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**alialhawas/alialhawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi , my name is ali Alhawas i i'm a student in https://imamu.edu.sa/en/   👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on un project
+- 🌱 I’m currently learning desgin,web development
+- 🤔 I’m looking for help with Design
+- 💬 Ask me about java
+- 📫 How to reach me: thelastlegend52@gmail.com
+- ⚡ Fun fact: I Can Solve a Rubik's cube in a Minute
+
+
+
+👔 [linkedin][linkedin]
+
+
+
+
+
+
+
+
+
+[linkedin]: https://linkedin.com/in/alialhawas
