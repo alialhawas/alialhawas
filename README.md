@@ -1,5 +1,5 @@
 ### Hi👋 , My Name Ali Alhawas And I I'm CS Student In [imam university][imam university]  
-Here are some ideas to get you started:
+Here are soe ideas to get you started:
 
 - 🔭 I’m currently working on un project
 - 🌱 I’m currently learning desgin,web development
