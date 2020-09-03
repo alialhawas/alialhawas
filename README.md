@@ -1,4 +1,4 @@
-### Hi , my name is ali Alhawas i i'm a student in https://imamu.edu.sa/en/   👋
+### Hi , my name is ali Alhawas i i'm a student in [imam university][imam university]  👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on un project
@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 
 
-
-
+[imam university]: https://imamu.edu.sa/en/
 [linkedin]: https://linkedin.com/in/alialhawas
