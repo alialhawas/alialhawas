@@ -18,4 +18,4 @@
 
 
 [imam university]: https://imamu.edu.sa/en/
-[linkedin]: https://linkedin.com/in/alialhawas
+[linkedin]: https://www.linkedin.com/in/ali-alhawas-04612a187/
