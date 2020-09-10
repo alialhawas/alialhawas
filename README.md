@@ -1,4 +1,4 @@
-### Hi👋 , My Name Ali Alhawas And I I'm CS Student In [imam university][imam university]  
+### Hi👋 , My Name Ali Alhawas And I I'm CS Student at [imam university][imam university]  
 
 - 🔭 I’m currently working on un project
 - 🌱 I’m currently learning desgin,web development
