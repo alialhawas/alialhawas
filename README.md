@@ -1,19 +1,9 @@
 
 
-- 🔭 I’m currently working on a projection model.
-- 🌱 I'm currently learning more about ML. 
-- 💬 Ask me about java, python.
-- 📫 How to reach me: akaalhawass@sm.imamu.edu.sa.
-- 👔 find me on [linkedin][linkedin]
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, my name is Ali Alhawas and I i'm a CS Student at </h1>[imam university] [imam university]  
+<h1 align="center">Hi 👋, my name is Ali Alhawas and I i'm a CS Student at imam university </h1>
 <h3 align="center">Computer Science graduate passionate about Machine Learning and deep learning. Capable leader, having led multiple Senior class projects to completion. Proficient in a range of modern technologies.</h3>
+
+
 - 🔭 I’m currently working on a projection model.
 - 🌱 I'm currently learning more about ML. 
 - 💬 Ask me about java, python.
@@ -39,5 +29,5 @@
 
 
 
-[imam university]: https://imamu.edu.sa/en/
+
 [linkedin]: https://www.linkedin.com/in/ali-alhawas-04612a187/
