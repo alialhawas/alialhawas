@@ -29,5 +29,4 @@
 
 
 
-
 [linkedin]: https://www.linkedin.com/in/ali-alhawas-04612a187/
