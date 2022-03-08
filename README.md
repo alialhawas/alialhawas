@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a projection model.
 - 🌱 I'm currently learning more about ML. 
 - 💬 Ask me about java, python.
-- 📫 How to reach me: akaalhawass@sm.imamu.edu.sa.
+- 📫 How to reach me: alhawas.k.ali@gmail.com
 - 👔 find me on [linkedin][linkedin]
 
 
