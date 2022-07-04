@@ -29,4 +29,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/ali-alhawas-04612a187/
+[linkedin]: www.linkedin.com/in/ali-alhawas-04612a187
+
