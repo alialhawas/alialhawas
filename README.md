@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello 👋, my name is Ali Alhawas, and I'm a Data Scientist in SDAIA</h1>
+<h1 align="center">Hello 👋, my name is Ali Alhawas.</h1>
 <h3 align="center">My focus is on harnessing the power of big data to drive innovation and make informed decisions.</h3>
 
 -  🌱 I'm also dedicated to expanding my expertise in Machine Learning.
